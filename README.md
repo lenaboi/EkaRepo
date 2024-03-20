@@ -1,10 +1,10 @@
 # Minun ensimmäinen repositorio
 Osaan nyt luoda uuden repositorion ja lähettää sen **GitHub**iin
 
-##Käyttöohjeet
+## Käyttöohjeet
 Tähän voisin lisätä käyttöohjeet projektille.
 
-##Koodin esittely
+## Koodin esittely
 Tällä tavalla voin esitellä koodia jolloin se on myös helppoa kopioida
 ```
 
